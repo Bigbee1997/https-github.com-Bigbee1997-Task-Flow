@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Android build outputs and caches
+android-sdk/
+gradle-dist/
+compile_log.txt
+taskflow.keystore
+*.apk
